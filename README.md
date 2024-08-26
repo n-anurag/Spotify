@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Spotify
-Enjoy the taste of Music from spotify
-=======
-<<<<<<< HEAD
+
 # Spotify
 Enjoy the taste of Music from spotify
 =======
