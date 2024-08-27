@@ -14,4 +14,5 @@ Currently, two official plugins are available:
 >>>>>>> 784d11a (Spotify UI)
 >>>>>>>
 >>>>>>> ![image](https://github.com/user-attachments/assets/e8f1d179-6f67-433f-912c-a3cf2cb35041)
+![image](https://github.com/user-attachments/assets/dd696389-1e96-4567-9674-017c831dc9c0)
 
